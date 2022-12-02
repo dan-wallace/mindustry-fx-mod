@@ -1,0 +1,8 @@
+name: "fx-mod"
+displayName: "FX Mod"
+author: Yourself
+description: "Noise good"
+version: "1.0"
+minGameVersion: "140.4"
+dependencies: []
+hidden: false
